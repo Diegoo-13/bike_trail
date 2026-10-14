@@ -37,7 +37,9 @@ lib/
 └── presentacion/                 # Capa de UI (Pantallas y widgets personalizados)
 
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/68e8478e-739f-46bb-a3e3-c21713e632cb" width="100%" controls></video>
+</p>
 
 
-https://github.com/user-attachments/assets/68e8478e-739f-46bb-a3e3-c21713e632cb
 

@@ -35,3 +35,9 @@ lib/
 ├── datos/                        # Capa de datos (Modelos y fuentes de datos mock)
 ├── dominio/                      # Capa de dominio (Entidades y contratos de repositorios)
 └── presentacion/                 # Capa de UI (Pantallas y widgets personalizados)
+
+
+
+
+https://github.com/user-attachments/assets/68e8478e-739f-46bb-a3e3-c21713e632cb
+
